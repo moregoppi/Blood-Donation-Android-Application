@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:padding="20dp"
     android:background="#Be5025"
-    tools:context=".DonorRegistrationActivity">
+    tools:context=".RecipientRegistrationActivity">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -33,7 +33,7 @@
                 android:src="@drawable/originallogo"/>
             <TextView
 
-                android:text="Donor Registration "
+                android:text="Reciver Registration "
                 android:textColor="#000"
                 android:textSize="25sp"
                 android:textStyle="bold"
@@ -181,8 +181,8 @@
                 </com.google.android.material.textfield.TextInputLayout>
 
                 <Button
-                    android:id="@+id/registertButton"
-                    android:text="Sign Up"
+                    android:id="@+id/recipientButton"
+                    android:text="Recipient Registration"
                     android:textAllCaps="false"
                     android:layout_marginTop="10dp"
                     android:layout_gravity="center"
