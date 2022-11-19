@@ -177,7 +177,8 @@
                         android:drawablePadding="10dp"
                         android:textColor="#000"
                         android:textSize="18sp"
-                        android:textColorHint="#000"/>
+                        android:textColorHint="#000"
+                        android:drawableStart="@drawable/ic_lock"/>
                 </com.google.android.material.textfield.TextInputLayout>
 
                 <Button
