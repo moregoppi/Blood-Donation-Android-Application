@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374339368474",
+    "project_id": "blooddonationapplication-864f9",
+    "storage_bucket": "blooddonationapplication-864f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374339368474:android:0aed187861e027bee1c3a3",
+        "android_client_info": {
+          "package_name": "com.example.blooddonationapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374339368474-kh1gm0vel09dr71rpbl9htmqtg3jgumb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5NxbKxIGSaSOO_9KmogtxT-cwLYRtvL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374339368474-kh1gm0vel09dr71rpbl9htmqtg3jgumb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
